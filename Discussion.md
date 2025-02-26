@@ -22,7 +22,6 @@ tech-campus-recruitment-2025/
 │   └── extract_logs.cpp
 ├── log_file.log
 └── output/
-Placed the downloaded log_file.log in the project root.
 
 Compile the Code:
 Open a terminal, navigate to the src/ folder, and run:
